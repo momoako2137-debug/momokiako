@@ -23,6 +23,12 @@
 
 ■ カリキュラム・理論・未着手一覧
    → main_courses/01_self_care/plan.txt
+
+■ Git（バージョン管理・このフォルダは履歴あり）
+   初回コミット済み。GitHub へ上げる前に:
+   - user.name / user.email を自分用に変更（このリポジトリだけならフォルダ内で git config）
+   - 秘密は .gitignore（credentials.json / token.json / notion_config.py / wp_config.py 等）
+   - 初回セットアップは notion_config.example.py → notion_config.py（同様に wp）
 --------------------------------------------------------------------
 
-更新日: 2026-03-29
+更新日: 2026-03-30
