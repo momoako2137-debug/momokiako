@@ -8,6 +8,15 @@ Claude Code 側で Google カレンダー用 MCP が動いていれば、朝 Ste
 - Google カレンダー／Tasks の画面から、今日まわりをコピペする
 - または「10時 打ち合わせ」のように箇条書きで送る
 
+【Claude Code で「MCPツールが現在のセッションでは利用できません」と出たとき】
+- リポジトリ直下の **.mcp.json** に **google-cal-tasks**（python fumi/google_cal_tasks_mcp.py）が入っているか確認。
+- ターミナルで `claude mcp list` と打ち、**google-cal-tasks が Connected** か見る。
+- 未登録なら（プロジェクト直下で）:  
+  `claude mcp add -s project google-cal-tasks -- python fumi/google_cal_tasks_mcp.py`
+- 追加したら **Claude Code を一度終了して再起動**し、もう一度「今日の予定を」と聞く。
+
+※ 画面上の「claude.ai Google Calendar」は別経路で、**認証が必要**と出ることがある。ローカル MCP（google-cal-tasks）が Connected なら、そちらを使う。
+
 【Google Cloud（まだなら）】
 1. Google Calendar API を有効化
 2. Google Tasks API を有効化

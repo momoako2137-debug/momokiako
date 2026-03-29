@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "google-cal-tasks": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "fumi/google_cal_tasks_mcp.py"
+      ],
+      "env": {}
+    }
+  }
+}
