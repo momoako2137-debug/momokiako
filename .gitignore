@@ -1,0 +1,19 @@
+# Google OAuth（カレンダー・Tasks MCP 用）— リポジトリに載せない
+credentials.json
+credentials_old.json
+token.json
+*-credentials.json
+.gdrive-server-credentials.json
+gcp-oauth.keys.json
+
+# 秘密を含むローカル設定（各自の PC にだけ置く）
+notion_config.py
+wp_config.py
+
+# 一般的な Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*

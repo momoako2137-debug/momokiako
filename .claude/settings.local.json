@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python read_gdoc.py)",
+      "WebFetch(domain:note.com)",
+      "WebFetch(domain:karakoko.com)",
+      "WebFetch(domain:www.street-academy.com)",
+      "Bash(python wp_post.py)",
+      "Bash(python notion_setup.py)",
+      "Bash(python -c \":*)",
+      "Bash(python notion_update.py)",
+      "WebFetch(domain:www.youtube.com)",
+      "Bash(python notion_add_content.py)",
+      "Bash(python notion_subpages.py)",
+      "Bash(python notion_subitems.py)",
+      "Bash(timeout /t 15 /nobreak)",
+      "Bash(python notion_cleanup.py)",
+      "Bash(python:*)",
+      "WebFetch(domain:momoako.com)",
+      "Bash(npm --version)",
+      "Bash(npm search:*)",
+      "Bash(pip list:*)",
+      "Bash(pip install:*)",
+      "Bash(pip show:*)"
+    ]
+  }
+}

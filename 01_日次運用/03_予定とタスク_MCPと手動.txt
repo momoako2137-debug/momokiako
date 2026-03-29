@@ -1,0 +1,29 @@
+予定・Google Tasks：MCP がある日／ない日
+==========================================
+
+【読み取りが自動（MCP）のとき】
+Claude Code 側で Google カレンダー用 MCP が動いていれば、朝 Step 1 で取得して要約してもらう。
+
+【まだのとき】
+- Google カレンダー／Tasks の画面から、今日まわりをコピペする
+- または「10時 打ち合わせ」のように箇条書きで送る
+
+【Google Cloud（まだなら）】
+1. Google Calendar API を有効化
+2. Google Tasks API を有効化
+3. Claude Code を一度再起動（MCP を読み込み直す）
+
+【初回認証（1回だけ）】
+Claude Code で「今日のカレンダーを見て」と話す → ブラウザ → 同じ Google アカウントで許可
+→ 以後は token 等が保存され、毎回は不要
+
+【秘密情報】
+credentials.json / token.json はリポジトリに載せない。ルートに **.gitignore** 済み（Git を使うときも保護）
+
+【詳細な経緯・コピペ用】
+hikitsugi.txt の「Google カレンダー読み取り MCP」セクション
+
+【NotebookLM】
+昨日の課題を入れたかどうかは、マスター Step 1 の質問で手動確認（自動では取りにいかない）
+
+更新日: 2026-03-30
