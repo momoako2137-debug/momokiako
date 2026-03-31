@@ -9,6 +9,7 @@ gcp-oauth.keys.json
 # 秘密を含むローカル設定（各自の PC にだけ置く）
 notion_config.py
 wp_config.py
+.mcp.json
 
 # 一般的な Python
 __pycache__/
