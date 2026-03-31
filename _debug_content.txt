@@ -1,0 +1,147 @@
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">はじめに</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>さあ、いよいよセルフケア講座が始まります！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たち母親って、ほんとうにいろんな役割がありますよね。母親として、妻として、娘として——そんな中でいろいろと揺れるのが、私たちの世代。自分自身だって更年期の変化があるのに、思春期の子どもとも向き合っていかないといけない。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>何があっても大丈夫</strong>と思えるスキルを、この講座でお渡ししていきます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6ヶ月という長丁場だからこそ、じっくり身につけていただけると思っています。一方で、長いからこそモチベーションが下がることもあると思います。だから、学習コンテンツとは別に、毎週私からのメールが届くように工夫していきますね。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>また、受講していくなかで「こうしてほしい」「ここがわかりにくい」と感じたことがあったら、どんどん教えてください。みなさんの声を聞きながら、より良い講座にしていきたいと思っています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>では、さっそく始めましょう！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">この講座の使い方</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>毎週1回、メルマガが届きます。メルマガのリンクをクリックすると、このようなページに来られます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#fdf6f7"},"border":{"radius":"8px"},"spacing":{"padding":{"top":"28px","right":"32px","bottom":"28px","left":"32px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="background-color:#fdf6f7;border-radius:8px;padding-top:28px;padding-right:32px;padding-bottom:28px;padding-left:32px">
+<!-- wp:paragraph -->
+<p>メルマガが届く<br>↓<br>リンクをクリック<br>↓<br>このページを開く<br>↓<br>動画を見る・ワークをやってみる</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p>これだけです。難しい操作はありません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>「全部やらなきゃ」と思わなくて大丈夫</strong><br>動画1本だけでもOK。ワークは後日まとめてでもOK。この講座のゴールは、半年後の自分が今より少しだけ楽になっていること。完璧にやることではありません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">動画｜AIを味方にするために</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>この講座では、自分のモヤモヤした気持ちを<strong>言葉にする練習</strong>を大切にしています。その練習相手として、<strong>傾聴AI</strong>を活用していただきたいと思っています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>「AIに悩みを話して大丈夫？」と感じている方もいると思います。まずはこの動画で、傾聴AIとは何か・安心して使うために知っておいてほしいことを確認してください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=FLpzWWAq2ks","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=FLpzWWAq2ks
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:group {"style":{"color":{"background":"#fdf6f7"},"border":{"radius":"8px"},"spacing":{"padding":{"top":"28px","right":"32px","bottom":"28px","left":"32px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="background-color:#fdf6f7;border-radius:8px;padding-top:28px;padding-right:32px;padding-bottom:28px;padding-left:32px">
+<!-- wp:paragraph -->
+<p><strong>大切にしてほしい3つのこと</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>① ハンドルは、いつも自分が持つ</strong><br>AIはあなたの気持ちを引き出してくれる道具です。でも、判断するのはあなた自身。AIに言われたことを鵜呑みにしないで、「参考にする」くらいの距離感で使ってください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>② 頼る先は、ひとつにしない</strong><br>AIは頼りになる仲間の一つです。でも、AIだけに話すようになると、かえって孤独感が増すことも。家族・友人・この講座——いろんな場所に緩く広く頼ることが、長い目で見て大切です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>③ 深刻なときは、人に・専門家に</strong><br>気持ちが追い詰められているとき、死にたいという気持ちがあるときは、AIではなく必ず人に相談してください。かかりつけの医師・相談窓口・信頼できる人に連絡を。</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">受講の心構え</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>3つだけ、覚えておいてください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>① 比べない</strong><br>他の受講者とも、SNSの理想のお母さん像とも、比べなくて大丈夫。この講座で、あなた自身のあり方を一緒に探していきましょう。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>② 小さく試す</strong><br>動画もワークも、全部一度にやらなくて構いません。「これだけやってみよう」と一つ決めるだけで、十分です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>③ 困ったらひとりで抱え込まない</strong><br>感想・疑問・「うまくいかなかった」——どんなことでもメルマガへの返信で送ってください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">今週のワーク</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>傾聴AIに、今の気持ちを話してみてください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>「申し込んでみたけど、ちゃんとできるかな」「なんだかモヤモヤしている」——そんなちょっとした気持ちで大丈夫です。うまく話せなくてもOK。まず話しかけてみることが、この講座の最初の一歩です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>話し終わったら、最後に「終わり」と伝えてみてください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":"4px"},"color":{"background":"#e07b8a","text":"#ffffff"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://gemini.google.com/gem/19Yht4_vUONwMu5yYM_Uk8sqsXnnXT8Mh?usp=sharing" target="_blank" rel="noreferrer noopener" style="border-radius:4px;background-color:#e07b8a;color:#ffffff">&#x25b6; 傾聴AIを使ってみる</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->

@@ -21,7 +21,21 @@
       "Bash(npm search:*)",
       "Bash(pip list:*)",
       "Bash(pip install:*)",
-      "Bash(pip show:*)"
+      "Bash(pip show:*)",
+      "mcp__google-cal-tasks__list_events",
+      "mcp__google-cal-tasks__list_task_lists",
+      "WebFetch(domain:zippy-chocolate-e29.notion.site)",
+      "WebFetch(domain:www.notion.so)",
+      "mcp__google-cal-tasks__list_tasks",
+      "WebFetch(domain:gemini.google.com)",
+      "mcp__notion__API-post-search",
+      "mcp__notion__API-query-data-source",
+      "mcp__notion__API-retrieve-a-database",
+      "mcp__notion__API-get-block-children"
     ]
-  }
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "google-cal-tasks"
+  ]
 }
