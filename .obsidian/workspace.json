@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "1179480adb94d9d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1104810f87eff4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42979f462c9c9467",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98fc7b0f0619735a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fc9af79003152af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a98d4c2677105eb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "282d534256fb9637",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "4b2e80412a34b32e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0ac96970a7dda1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b536a21c7636df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b424f751343e6966",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "908b374b16ef685a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "c660a96de99901d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "131fc6429dbe1d7f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "ae8a4a91e72a096c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_scripts/AIで発信活動を爆速にする仕組みを作ってみた.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "AIで発信活動を爆速にする仕組みを作ってみたのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "a98d4c2677105eb2",
+  "lastOpenFiles": [
+    "02_発信資産/CLAUDE.md",
+    "02_発信資産/05_x_threads/AIで発信活動を爆速にする仕組みを作ってみた.md",
+    "02_発信資産/05_x_threads",
+    "02_発信資産/04_newsletter/AIで発信活動を爆速にする仕組みを作ってみた.md",
+    "02_発信資産/04_newsletter",
+    "02_発信資産/03_articles/AIで発信活動を爆速にする仕組みを作ってみた.md",
+    "02_発信資産/03_articles",
+    "02_発信資産/02_scripts/AIで発信活動を爆速にする仕組みを作ってみた.md",
+    "02_発信資産/02_scripts",
+    "02_発信資産/01_ideas"
+  ]
+}
