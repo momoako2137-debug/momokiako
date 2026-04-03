@@ -11,10 +11,16 @@
             "id": "42979f462c9c9467",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "type": "kanban",
+              "state": {
+                "file": "02_発信資産/01_ideas/ネタ管理ボード.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "ネタ管理ボード"
             }
           }
         ]
@@ -70,7 +76,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_ももさん用/AIスキル図鑑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "AIスキル図鑑へのバックリンク"
             }
           },
           {
@@ -108,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00_ももさん用/AIスキル図鑑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "AIスキル図鑑からのアウトゴーイングリンク"
             }
           },
           {
@@ -150,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_scripts/AIで発信活動を爆速にする仕組みを作ってみた.md",
+                "file": "00_ももさん用/AIスキル図鑑.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AIで発信活動を爆速にする仕組みを作ってみたのアウトライン"
+              "title": "AIスキル図鑑のアウトライン"
             }
           }
         ]
@@ -174,11 +183,19 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a98d4c2677105eb2",
+  "active": "4b2e80412a34b32e",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "02_発信資産/01_ideas/ネタ管理ボード.md",
+    "00_ももさん用/AIスキル図鑑.md",
+    "00_ももさん用/AIスキル図鑑.md.tmp.18156.1775210266757",
+    "02_発信資産/CLAUDE.md.tmp.18156.1775209367100",
+    "00_ももさん用/全体図_やること一覧.md",
+    "02_scripts/AIで発信活動を爆速にする仕組みを作ってみた.md",
     "02_発信資産/CLAUDE.md",
     "02_発信資産/05_x_threads/AIで発信活動を爆速にする仕組みを作ってみた.md",
     "02_発信資産/05_x_threads",

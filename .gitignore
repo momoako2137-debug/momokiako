@@ -11,6 +11,9 @@ notion_config.py
 wp_config.py
 .mcp.json
 
+# Obsidian プラグイン本体（コードは共有不要）
+.obsidian/plugins/
+
 # 一般的な Python
 __pycache__/
 *.py[cod]
